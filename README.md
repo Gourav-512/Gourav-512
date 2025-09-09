@@ -1,11 +1,11 @@
-<h1 align="center">🔬 G-One (Gaurav Salunkhe)</h1>
+<h1 align="center">🔬 G-One (Gourav Salunkhe)</h1>
 <h3 align="center">Aspiring Scientist | AI Researcher | Web & AI Developer</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/AI-Research-blue" />
   <img src="https://img.shields.io/badge/Web-Development-green" />
   <img src="https://img.shields.io/badge/Automation-yellow" />
-  <img src="https://komarev.com/ghpvc/?username=Gaurav-512&label=Profile%20Views&color=blueviolet&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=Gourav-512&label=Profile%20Views&color=blueviolet&style=flat" />
 </p>
 
 <p align="center">
