@@ -48,6 +48,43 @@
 - 🌍 Delivered **5+ client websites (SEO + AdSense ready)**  
 - 📈 Documenting startup journey → [@g_one_is_ai](https://instagram.com/g_one_is_ai)
 
+## 🔭 Current Experiments
+
+- 🧪 **MindMatrix.io**  
+  *Hypothesis:* Can multiple AI utilities be merged into a single SaaS platform?  
+  *Method:* PHP + MySQL + Firebase + AI APIs  
+  *Status:* ✅ Active | Tools: Text Gen, Resume Builder, Explainer  
+
+- 🧰 **G-One Toolkit**  
+  *Hypothesis:* Small custom AI utilities can simplify everyday tasks.  
+  *Method:* JS + Colab APIs  
+  *Status:* ✅ Active | Includes 6+ automation tools  
+
+- ⏳ **FocusFlow**  
+  *Hypothesis:* Gamified Pomodoro & motivation improves focus.  
+  *Method:* HTML + CSS + JS (LocalStorage)  
+  *Status:* ✅ Active | Features: To-Do, Focus Timer, Alerts  
+
+- 🍦 **Scoop Shop**  
+  *Hypothesis:* AI-generated images & predictions enhance shopping UX.  
+  *Method:* Next.js + Genkit + Google AI  
+  *Status:* 🧪 Prototype | AI Flavor Recommender  
+
+- 🛒 **Digistore.in**  
+  *Hypothesis:* Students/freelancers need plug-and-play AI tools & products.  
+  *Method:* WordPress + SaaS integration  
+  *Status:* 🚀 Startup Journey | Initial launch with ₹2000  
+
+- 🌱 **ISRO Hackathon Project**  
+  *Hypothesis:* NDVI satellite imagery improves crop health monitoring.  
+  *Method:* Python + Remote Sensing Data  
+  *Status:* 📡 Research Ongoing  
+
+- 🛍 **DEVI.Ai Career Hub**  
+  *Hypothesis:* AI + Community can accelerate career growth.  
+  *Method:* Career Stories + AI-driven guidance  
+  *Status:* 🌟 Pilot Phase | Building Growth Platform + Community
+
 
 
 ## 📚 Certifications
