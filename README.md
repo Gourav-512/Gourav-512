@@ -84,7 +84,23 @@
   *Hypothesis:* AI + Community can accelerate career growth.  
   *Method:* Career Stories + AI-driven guidance  
   *Status:* 🌟 Pilot Phase | Building Growth Platform + Community
+## 🔭 Current Experiments
 
+- 🧪 **MindMatrix.io** → AI Tools Platform (Text Gen, Resume Builder, Explainer)  
+- 🧰 **G-One Toolkit** → My personal AI arsenal (6+ automation tools)  
+- ⏳ **FocusFlow** → Productivity app (Pomodoro + motivational alerts)  
+- 🍦 **Scoop Shop** → AI-enhanced Ice Cream E-Commerce (Next.js + Genkit)  
+- 🛒 **Digistore.in** → SaaS platform for digital products & AI tools  
+- 🌱 **ISRO Hackathon Project** → NDVI Satellite Crop Monitor using AI  
+- 🛍 **DEVI.Ai Career Hub** → Career Growth Platform + Community Page (Career Growth Stories) 
+
+
+## 🏆 Achievements
+- 🎯 **8.85/10 CGPA** in BCA → Pursuing MCA (BVDU, Sangli)  
+- 🚀 Selected for **ISRO Hackathon 2025**  
+- 🛠 Built **10+ AI-driven projects & SaaS tools**  
+- 🌍 Delivered **5+ client websites (SEO + AdSense ready)**  
+- 📈 Documenting startup journey → [@g_one_is_ai](https://instagram.com/g_one_is_ai)
 
 
 ## 📚 Certifications
