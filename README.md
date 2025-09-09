@@ -38,7 +38,7 @@
 - 🍦 **Scoop Shop** → AI-enhanced Ice Cream E-Commerce (Next.js + Genkit)  
 - 🛒 **Digistore.in** → SaaS platform for digital products & AI tools  
 - 🌱 **ISRO Hackathon Project** → NDVI Satellite Crop Monitor using AI  
-- 🛍 **SkinLuv** → Shopify Development + Automation Workflows  
+- 🛍 **DEVI.Ai Career Hub** → Career Growth Platform + Community Page (Career Growth Stories) 
 
 
 ## 🏆 Achievements
