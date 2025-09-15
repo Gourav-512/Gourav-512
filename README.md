@@ -114,13 +114,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Gourav-512&show_icons=true&theme=radical" alt="stats"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gourav-512&theme=radical" alt="streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gourav-512&theme=react-dark" alt="activity"/>
-</p>
 
 
 ## 🌌 Vision
