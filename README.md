@@ -109,6 +109,21 @@
 - ![ISRO HACKTHONE 2025](https://github.com/user-attachments/assets/9c64726d-5b9a-4093-8b8e-7751c7e7a385)
 
 
+## 📚 Certifications  
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/9c64726d-5b9a-4093-8b8e-7751c7e7a385" width="250" />
+  <img src="https://github.com/user-attachments/assets/example1" width="250" />
+  <img src="https://github.com/user-attachments/assets/example2" width="250" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/example3" width="250" />
+  <img src="https://github.com/user-attachments/assets/example4" width="250" />
+  <img src="https://github.com/user-attachments/assets/example5" width="250" />
+</p>
+
+
 ## 📊 Research Stats
 
 <p align="center">
