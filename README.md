@@ -105,7 +105,8 @@
 
 ## 📚 Certifications
 - Google Gen AI | Tata Cybersecurity | Goldman Sachs Simulation  
-- Accenture AI/ML Workflow | Edureka AI/ML Internship | Google Analytics  
+- Accenture AI/ML Workflow | Edureka AI/ML Internship | Google Analytics
+- ![ISRO HACKTHONE 2025](https://github.com/user-attachments/assets/9c64726d-5b9a-4093-8b8e-7751c7e7a385)
 
 
 ## 📊 Research Stats
