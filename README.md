@@ -108,10 +108,10 @@
 - Accenture AI/ML Workflow | Edureka AI/ML Internship | Google Analytics  
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/9c64726d-5b9a-4093-8b8e-7751c7e7a385" width="250" />
+  <img src="https://github.com/user-attachments/assets/3c85f713-d9f8-4d25-ac7f-510e40fe593a" width="250" />
   <img src="https://github.com/user-attachments/assets/2eaf26bf-2910-4e78-9b75-c4344e410469" width="250" />
   <img src="https://github.com/user-attachments/assets/d96ad19f-008f-44e0-a917-f0a746746201" width="250" />
-  <img src="https://github.com/user-attachments/assets/3c85f713-d9f8-4d25-ac7f-510e40fe593a" width="250" />
+  <img src="https://github.com/user-attachments/assets/9c64726d-5b9a-4093-8b8e-7751c7e7a385" width="250" />
 </p>
 
 <p align="center">
