@@ -105,23 +105,25 @@
 
 ## 📚 Certifications
 - Google Gen AI | Tata Cybersecurity | Goldman Sachs Simulation  
-- Accenture AI/ML Workflow | Edureka AI/ML Internship | Google Analytics
-- ![ISRO HACKTHONE 2025](https://github.com/user-attachments/assets/9c64726d-5b9a-4093-8b8e-7751c7e7a385)
-
-
-## 📚 Certifications  
+- Accenture AI/ML Workflow | Edureka AI/ML Internship | Google Analytics  
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/9c64726d-5b9a-4093-8b8e-7751c7e7a385" width="250" />
-  <img src="https://github.com/user-attachments/assets/example1" width="250" />
-  <img src="https://github.com/user-attachments/assets/example2" width="250" />
+  <img src="https://github.com/user-attachments/assets/2eaf26bf-2910-4e78-9b75-c4344e410469" width="250" />
+  <img src="https://github.com/user-attachments/assets/d96ad19f-008f-44e0-a917-f0a746746201" width="250" />
+  <img src="https://github.com/user-attachments/assets/3c85f713-d9f8-4d25-ac7f-510e40fe593a" width="250" />
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/example3" width="250" />
-  <img src="https://github.com/user-attachments/assets/example4" width="250" />
-  <img src="https://github.com/user-attachments/assets/example5" width="250" />
+  <img src="https://github.com/user-attachments/assets/95c36ffb-d071-4494-9045-a53f2ed639c3" width="250" />
+  <img src="https://github.com/user-attachments/assets/3a55fabe-6d96-4c0f-a833-7793e3605ff1" width="250" />
+  <img src="https://github.com/user-attachments/assets/c16868f2-bc63-42f7-98e3-e7f2d47f17d8" width="250" />
 </p>
+
+
+
+
+
 
 
 ## 📊 Research Stats
