@@ -15,7 +15,7 @@
 ## 🛰 Mission Log
 
 - **2022** → Entered BCA, discovered Web Development  
-- **2023** → Built Attendance App + Client Websites  
+- **2023** → Built Attendance App + Client Websites ( Freelancing )  
 - **2024** → Launched MindMatrix.io & G-One AI Toolkit  
 - **2025** → Selected for ISRO Hackathon 🚀 | Started MCA  
 - **Future** → Govt Scientist (NIC | DRDO | ISRO | BARC) + AI Research Labs  
