@@ -11,7 +11,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=1ABC9C&center=true&vCenter=true&lines=Exploring+AI+%26+Automation;Future+Government+Scientist;Open+Source+Researcher;Building+SaaS+%2B+AI+Platforms" />
 </p>
-
+ 
 ## 🛰 Mission Log
 
 - **2022** → Entered BCA, discovered Web Development  
@@ -100,7 +100,7 @@
 - 🚀 Selected for **ISRO Hackathon 2025**  
 - 🛠 Built **10+ AI-driven projects & SaaS tools**  
 - 🌍 Delivered **5+ client websites (SEO + AdSense ready)**  
-- 📈 Documenting startup journey → [@g_one_is_ai](https://instagram.com/g_one_is_ai)
+- 📈 Documenting startup journey → [@Researcher_Gourav](https://www.youtube.com/@Researcher_Gourav)
 
 
 ## 📚 Certifications
