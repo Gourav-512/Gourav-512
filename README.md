@@ -120,17 +120,30 @@
   <img src="https://github.com/user-attachments/assets/3a55fabe-6d96-4c0f-a833-7793e3605ff1" width="250" />
 </p>
 
+## 🎥 live links 
 
+- freelancing Own Bussiness Page.  :- 
+        https://v0-g-one-digital-solutions.vercel.app/ 
+- freelancing Own Bussiness Page v.2.1  :- 
+        https://v0-digital-agency-packages.vercel.app/
+- freelancing work for local Bussiness 1  :- 
+        https://demo-shree-madhur.vercel.app/
+- freelancing work for local Bussiness 2  :- 
+        https://businessslide9of9.vercel.app/
+- freelancing work for local Bussiness 3  :- 
+        https://gym-demo-1-eosin.vercel.app/
+- freelancing work for local Bussiness 4  :- 
+        https://amrutkala.vercel.app/
 
+- Own projects mnj Me swata Kelele ideas type projects. 1:- 
+       https://php-7eae6.wasmer.app/index.php
 
-
-
-
-## 📊 Research Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gourav-512&show_icons=true&theme=radical" alt="stats"/>
-</p>
+- Colege Project MINDMATRIX V2.1 Final . :- 
+       https://php-bb316.wasmer.app/ {without DB }
+- Own projects mnj Me swata Kelele ideas type projects. 2:- 
+       https://php-88c06.wasmer.app/
+- Colege Project MINDMATRIX V1 :- 
+       https://php-b1ab3.wasmer.app/login.php
 
 
 
