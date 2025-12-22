@@ -144,7 +144,9 @@
 - Colege Project MINDMATRIX V2.1 Final . :- 
        https://php-bb316.wasmer.app/ {without DB }
 
-
+## <img width="95" height="88" alt="image" src="https://github.com/user-attachments/assets/6d8e9ef6-aa52-4514-b525-6cc401aa5d40" />
+ Huggingface Model 
+https://huggingface.co/Researcher-Gourav/SmartSkin-AI-Deep-Learning
 
 
 ## 🌌 Vision
