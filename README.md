@@ -135,15 +135,15 @@
 - freelancing work for local Bussiness 4  :- 
         https://amrutkala.vercel.app/
 
-- Own projects mnj Me swata Kelele ideas type projects. 1:- 
+- Own project 1:- 
        https://php-7eae6.wasmer.app/index.php
-
-- Colege Project MINDMATRIX V2.1 Final . :- 
-       https://php-bb316.wasmer.app/ {without DB }
-- Own projects mnj Me swata Kelele ideas type projects. 2:- 
+- Own project 2:- 
        https://php-88c06.wasmer.app/
 - Colege Project MINDMATRIX V1 :- 
        https://php-b1ab3.wasmer.app/login.php
+- Colege Project MINDMATRIX V2.1 Final . :- 
+       https://php-bb316.wasmer.app/ {without DB }
+
 
 
 
