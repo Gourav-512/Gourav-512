@@ -1,53 +1,72 @@
 # 🔬 G-One (Gourav Salunkhe)
+**AI Engineer | Computer Vision Specialist** | Building Production-Ready Multimodal AI Systems for Real-World Impact  
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://python.org)
+[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)](https://pytorch.org)
+[![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?logo=ultralytics&logoColor=black)](https://ultralytics.com)
+[![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white)](https://opencv.org)
+[![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com)
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)](https://tensorflow.org)
 
-**Applied AI Engineer** | LLM Systems • RAG • Vector DB • AI Automation | Production-ready AI Systems
-
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white) 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white) 
-![YOLO](https://img.shields.io/badge/YOLO-000000?logo=ultralytics&logoColor=white) 
-![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=G-One%20AI%20Journey&fontSize=40&fontAlignY=35&animation=twinkling&fontColor=ffffff" alt="header" />
+</p>
 
 ### 🚀 Mission
-Merging **AI + Science + Nation Building** as a future Government Scientist (ISRO | DRDO | BARC | NIC)
+Merging **AI + Computer Vision + Nation Building** — Aiming for Government Scientist roles (ISRO | DRDO | BARC | NIC) while shipping impactful AI tools for Healthcare, AgriTech, and Space.
 
-### 🛰 Mission Log
-- **2022** → BCA + Web Development
-- **2023** → Attendance App + 5+ Freelance Websites (SEO + AdSense ready)
-- **2024** → Launched **MindMatrix.io** SaaS + G-One AI Toolkit
-- **2025** → Selected for **ISRO Hackathon** | Started MCA (BVDU, Sangli, 8.85/10 CGPA in BCA)
-- **Future** → Govt Scientist + AI Research Labs
+### 🛰️ Journey & Milestones
+- **2022** → BCA + Web Dev Foundations  
+- **2023** → Attendance App + 5+ Freelance Sites (SEO + AdSense)  
+- **2024** → Launched **MindMatrix.io** SaaS + G-One AI Toolkit  
+- **2025** → ISRO Hackathon Selected | MCA (BVDU, Sangli) – Strong CGPA  
+- **2026** → Full focus on **Computer Vision Mastery** → Entry-Level AI CV Engineer Job  
+- **Future** → AI Research + Govt Labs + Passive AI Tools/Startup
 
-### 🧠 Core Skills & Domains
-- **LLM Systems & Generative AI** → Prompt Engineering, RAG Pipelines, Vector Databases, Model Evaluation
-- **Computer Vision** → YOLOv8, MobileNetV2, CNN (82% acc on skin disease classifier)
-- **AI Backend & Automation** → FastAPI, Python, Streamlit, TensorFlow/Keras
-- **AI SaaS & Full-Stack** → Next.js, PHP, Firebase, MySQL
-- **Domain Projects** → AgriTech (Agro-Vision), Healthcare AI (SmartSkin), EdTech, Space-Tech (NDVI)
+### 🧠 Core Skills (2026 Focus)
+- **Computer Vision** → YOLOv8/YOLOv10, OpenCV, CNNs, Vision Transformers (ViT), Object Detection/Segmentation/Pose Estimation, Multimodal (CLIP-style)  
+- **Deep Learning** → PyTorch/TensorFlow/Keras, Transfer Learning, Model Fine-Tuning, Evaluation Metrics  
+- **Backend & Deployment** → FastAPI APIs, Streamlit/HF Spaces, Docker basics, Vercel/Heroku/AWS Free Tier  
+- **AI Systems** → RAG, Vector DBs (Pinecone/Chroma), Prompt Engineering, MLOps Intro  
+- **Full-Stack Touch** → Next.js, Firebase, MySQL for AI SaaS
 
-### 🔥 Featured Projects
-- **[SmartSkin-AI-Deep-Learning](https://github.com/Gourav-512/SmartSkin-AI-Deep-Learning)** → MobileNetV2 CNN skin disease classifier (82% validation) + Streamlit UI + HF deployment
-- **[ai-image-analysis-api](https://github.com/Gourav-512/ai-image-analysis-api)** → Production YOLOv8 object detection API with FastAPI (Vercel ready)
-- **[MindMatrixio](https://github.com/Gourav-512/MindMatrixio)** → Freemium AI SaaS suite for creators (Text Gen, Resume Builder, etc.)
-- **[Agro-Vision](https://github.com/Gourav-512/Agro-Vision)** → Multilingual AI dashboard for Indian farmers
-- **[ISRO Hackathon NDVI Project](...)** → Satellite crop monitoring (ongoing)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Gourav-512&show_icons=true&theme=radical&hide_border=true" alt="Gourav's GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gourav-512&theme=radical&hide_border=true" alt="streak" />
+</p>
 
-### 📚 AI Engineer Roadmap & Daily Learning
-→ Check my dedicated repo: **[AI-ENGINEER-ROADMAP-AND-LEARNING](https://github.com/Gourav-512/AI-ENGINEER-ROADMAP-AND-LEARNING)**  
-Daily logs, resources, progress tracking, projects built while learning.
+### 🔥 Featured Projects (Pinned on Profile)
+1. **[SmartSkin-AI-Deep-Learning](https://github.com/Gourav-512/SmartSkin-AI-Deep-Learning)**  
+   MobileNetV2-based Skin Disease Classifier (82% val acc) + Streamlit UI + Hugging Face Deployment  
+   *Real-time demo + medical CV application*
 
-### 🏆 Certifications & Achievements
-- Google Generative AI • Accenture AI/ML Workflow • Edureka AI/ML Internship
-- Tata Cybersecurity • Goldman Sachs Simulation • Google Analytics
-- ISRO Hackathon 2025 Selected
+2. **[ai-image-analysis-api](https://github.com/Gourav-512/ai-image-analysis-api)**  
+   Production-ready YOLOv8 Object Detection API (FastAPI) – Deployable on Vercel  
+   *Edge deployment focus for CV tasks*
 
-### 🌐 Connect
-- **LinkedIn**: [Gourav Salunkhe](https://www.linkedin.com/in/gourav-salunkhe-512-g-one/)
-- **Twitter/X**: [@gourav_salunkhe](https://twitter.com/gourav_salunkhe)
-- **Instagram**: [@g_one_is_ai](https://instagram.com/g_one_is_ai)
-- **YouTube**: [@Researcher_Gourav](https://youtube.com/@Researcher_Gourav)
-- **Hugging Face**: [Researcher-Gourav](https://huggingface.co/Researcher-Gourav)
+3. **[Agro-Vision](https://github.com/Gourav-512/Agro-Vision)**  
+   Multilingual AI Dashboard for Indian Farmers (Crop Disease + NDVI Analysis)  
+   *AgriTech impact with CV + satellite data*
 
-> "I don’t just write code — I conduct experiments. Every repository is a research log."
+4. **[MindMatrixio](https://github.com/Gourav-512/MindMatrixio)**  
+   Freemium AI SaaS (Text Gen, Resume Builder + CV features)  
+   *End-to-end AI product building*
 
-**Open to collaborations, freelance AI projects, and full-time Applied AI Engineer roles!** DM me.
+More in **[AI-ENGINEER-ROADMAP-AND-LEARNING](https://github.com/Gourav-512/AI-ENGINEER-ROADMAP-AND-LEARNING)** – Daily progress, CV crash course notes, 2026 projects!
+
+### 🏆 Certifications & Wins
+- Google Generative AI  
+- Accenture AI/ML Workflow  
+- Edureka AI/ML Internship  
+- ISRO Hackathon 2025 Selected  
+- Tata Cybersecurity, Goldman Sachs Simulation
+
+### 🌐 Let's Connect
+- **LinkedIn**: [Gourav Salunkhe](https://www.linkedin.com/in/gourav-salunkhe-512-g-one/) – Open to AI CV roles/internships  
+- **X/Twitter**: [@gourav_salunkhe](https://twitter.com/gourav_salunkhe)  
+- **Instagram**: [@g_one_is_ai](https://instagram.com/g_one_is_ai)  
+- **YouTube**: [@Researcher_Gourav](https://youtube.com/@Researcher_Gourav) – CV Tutorials coming soon!  
+- **Hugging Face**: [Researcher-Gourav](https://huggingface.co/Researcher-Gourav)  
+
+> "I don’t just code — I experiment, deploy, and solve real problems with AI Vision."  
+
+**Open to collaborations, freelance CV/AI projects, and full-time Applied AI Engineer roles (especially Computer Vision)!** DM me on LinkedIn. Let's build the future! 🔥
