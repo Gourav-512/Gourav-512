@@ -1,5 +1,6 @@
 # 🔬 G-One (Gourav Salunkhe)
 **AI Engineer | Computer Vision Specialist** | Building Production-Ready Multimodal AI Systems for Real-World Impact  
+
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://python.org)
 [![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)](https://pytorch.org)
 [![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?logo=ultralytics&logoColor=black)](https://ultralytics.com)
