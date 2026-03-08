@@ -31,8 +31,8 @@ Merging **AI + Computer Vision + Nation Building** — Aiming for Government Sci
 - **Full-Stack Touch** → Next.js, Firebase, MySQL for AI SaaS
 
  <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gourav-512&show_icons=true&theme=radical&hide_border=true" alt="Gourav's GitHub stats" />
-  <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gourav-512&theme=radical&hide_border=true" alt="streak" /> -->
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=Gourav-512&show_icons=true&theme=radical&hide_border=true" alt="Gourav's GitHub stats" /> -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gourav-512&theme=radical&hide_border=true" alt="streak" />
 </p> 
 
 ### 🔥 Featured Projects (Pinned on Profile)
