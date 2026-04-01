@@ -64,10 +64,12 @@ More in **[AI-ENGINEER-ROADMAP-AND-LEARNING](https://github.com/Gourav-512/AI-EN
 ### 🌐 Let's Connect
 - **LinkedIn**: [Gourav Salunkhe](https://www.linkedin.com/in/gourav-salunkhe-512-g-one/) – Open to AI CV roles/internships  
 - **X/Twitter**: [@gourav_salunkhe](https://twitter.com/gourav_salunkhe)  
-- **Instagram**: [@g_one_is_ai]( https://www.instagram.com/invites/contact/?utm_source=ig_contact_invite&utm_medium=copy_link&utm_content=i059dna)  
+- **Instagram**: [@g_one_is_ai]( https://www.instagram.com/winiks.co)  
 - **YouTube**: [@Researcher_Gourav](https://youtube.com/@Researcher_Gourav) – CV Tutorials coming soon!  
 - **Hugging Face**: [Researcher-Gourav](https://huggingface.co/Researcher-Gourav)  
 
 > "I don’t just code — I experiment, deploy, and solve real problems with AI Vision."  
 
 **Open to collaborations, freelance CV/AI projects, and full-time Applied AI Engineer roles (especially Computer Vision)!** DM me on LinkedIn. Let's build the future! 🔥
+
+see what we are doing : 
