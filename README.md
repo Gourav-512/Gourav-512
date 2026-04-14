@@ -9,7 +9,7 @@
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)](https://tensorflow.org)
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=G-One%20AI%20Journey&fontSize=40&fontAlignY=35&animation=twinkling&fontColor=ffffff" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Gourav's%20AI%20Journey&fontSize=40&fontAlignY=35&animation=twinkling&fontColor=ffffff" alt="header" />
 </p>
 
 ### 🚀 Mission
