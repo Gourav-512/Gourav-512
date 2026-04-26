@@ -1,5 +1,8 @@
-# 🔬 G-One (Gourav Salunkhe)
-**AI Engineer | Computer Vision Specialist** | Building Production-Ready Multimodal AI Systems for Real-World Impact  
+Gourav Salunkhe
+Applied AI Engineer | ML • Computer Vision • MLOps
+
+I build deployable AI systems — not just models.
+My work focuses on designing end-to-end pipelines from model training to real-world deployment, with strong emphasis on performance, scalability, and automation.
 
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://python.org)
 [![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)](https://pytorch.org)
@@ -12,17 +15,11 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Gourav's%20AI%20Journey&fontSize=40&fontAlignY=35&animation=twinkling&fontColor=ffffff" alt="header" />
 </p>
 
-### 🚀 Mission
-Merging **AI + Computer Vision + Nation Building** — Aiming for Government Scientist roles (ISRO | DRDO | BARC | NIC) while shipping impactful AI tools for Healthcare, AgriTech, and Space.
-
-### 🛰️ Journey & Milestones
-- **2022** → BCA + Web Dev Foundations  
-- **2023** → Attendance App + 5+ Freelance Sites (SEO + AdSense)  
-- **2024** → Launched **MindMatrix.io** SaaS + G-One AI Toolkit  
-- **2025** → ISRO Hackathon Selected | MCA (BVDU, Sangli) – Strong CGPA  
-- **2026** → Full focus on **Computer Vision Mastery** → Entry-Level AI CV Engineer Job  
-- **Future** → AI Research + Govt Labs + Passive AI Tools/Startup
-
+🚀 What I Do
+Build real-time Computer Vision systems (detection, tracking, analysis)
+Design ML pipelines with deployment-first mindset
+Develop APIs for model serving using FastAPI
+Work with structured data pipelines and automation
 ### 🧠 Core Skills (2026 Focus)
 - **Computer Vision** → YOLOv8/YOLOv10, OpenCV, CNNs, Vision Transformers (ViT), Object Detection/Segmentation/Pose Estimation, Multimodal (CLIP-style)  
 - **Deep Learning** → PyTorch/TensorFlow/Keras, Transfer Learning, Model Fine-Tuning, Evaluation Metrics  
