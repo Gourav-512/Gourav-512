@@ -1,72 +1,140 @@
-Gourav Salunkhe
-Applied AI Engineer | ML • Computer Vision • MLOps
-
-I build deployable AI systems — not just models.
-My work focuses on designing end-to-end pipelines from model training to real-world deployment, with strong emphasis on performance, scalability, and automation.
-
-[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://python.org)
-[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)](https://pytorch.org)
-[![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?logo=ultralytics&logoColor=black)](https://ultralytics.com)
-[![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white)](https://opencv.org)
-[![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com)
-[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)](https://tensorflow.org)
+<h1 align="center">Gourav Salunkhe</h1>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Gourav's%20AI%20Journey&fontSize=40&fontAlignY=35&animation=twinkling&fontColor=ffffff" alt="header" />
+  <strong>Applied AI Engineer</strong> • Computer Vision • Production AI Systems
 </p>
 
-🚀 What I Do
-Build real-time Computer Vision systems (detection, tracking, analysis)
-Design ML pipelines with deployment-first mindset
-Develop APIs for model serving using FastAPI
-Work with structured data pipelines and automation
-### 🧠 Core Skills (2026 Focus)
-- **Computer Vision** → YOLOv8/YOLOv10, OpenCV, CNNs, Vision Transformers (ViT), Object Detection/Segmentation/Pose Estimation, Multimodal (CLIP-style)  
-- **Deep Learning** → PyTorch/TensorFlow/Keras, Transfer Learning, Model Fine-Tuning, Evaluation Metrics  
-- **Backend & Deployment** → FastAPI APIs, Streamlit/HF Spaces, Docker basics, Vercel/Heroku/AWS Free Tier  
-- **AI Systems** → RAG, Vector DBs (Pinecone/Chroma), Prompt Engineering, MLOps Intro  
-- **Full-Stack Touch** → Next.js, Firebase, MySQL for AI SaaS
+<p align="center">
+  Building end-to-end AI applications with focus on <strong>Computer Vision</strong>, real-time inference, 
+  scalable backends and production deployment.
+</p>
 
- <p align="center">
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=Gourav-512&show_icons=true&theme=radical&hide_border=true" alt="Gourav's GitHub stats" /> -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gourav-512&theme=radical&hide_border=true" alt="streak" />
-</p> 
+<p align="center">
+  <a href="https://github.com/Gourav-512">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/gourav-salunkhe-512-g-one/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://huggingface.co/Researcher-Gourav">
+    <img src="https://img.shields.io/badge/HuggingFace-FFCA28?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face"/>
+  </a>
+</p>
 
-### 🔥 Featured Projects (Pinned on Profile)
-1. **[SmartSkin-AI-Deep-Learning](https://github.com/Gourav-512/SmartSkin-AI-Deep-Learning)**  
-   MobileNetV2-based Skin Disease Classifier (82% val acc) + Streamlit UI + Hugging Face Deployment  
-   *Real-time demo + medical CV application*
+---
 
-2. **[ai-image-analysis-api](https://github.com/Gourav-512/ai-image-analysis-api)**  
-   Production-ready YOLOv8 Object Detection API (FastAPI) – Deployable on Vercel  
-   *Edge deployment focus for CV tasks*
+### 👨‍💻 About Me
 
-3. **[Agro-Vision](https://github.com/Gourav-512/Agro-Vision)**  
-   Multilingual AI Dashboard for Indian Farmers (Crop Disease + NDVI Analysis)  
-   *AgriTech impact with CV + satellite data*
+I am a passionate **Applied AI Engineer** specializing in **Computer Vision** and **production-grade AI systems**.  
+I enjoy turning ML models into deployable, scalable applications using FastAPI, Docker, and cloud deployment platforms.
 
-4. **[MindMatrixio](https://github.com/Gourav-512/MindMatrixio)**  
-   Freemium AI SaaS (Text Gen, Resume Builder + CV features)  
-   *End-to-end AI product building*
+My focus areas:
+- Real-time Object Detection & Video Analytics
+- AI-powered Backends & Inference Pipelines
+- Practical AI solutions for **Agriculture** and **Healthcare**
+- MLOps fundamentals & model deployment
 
-More in **[AI-ENGINEER-ROADMAP-AND-LEARNING](https://github.com/Gourav-512/AI-ENGINEER-ROADMAP-AND-LEARNING)** – Daily progress, CV crash course notes, 2026 projects!
+---
 
-### 🏆 Certifications & Wins
-- Google Generative AI  
-- Accenture AI/ML Workflow  
-- Edureka AI/ML Internship  
-- ISRO Hackathon 2025 Selected  
-- Tata Cybersecurity, Goldman Sachs Simulation
+### 🛠️ Tech Stack
 
-### 🌐 Let's Connect
-- **LinkedIn**: [Gourav Salunkhe](https://www.linkedin.com/in/gourav-salunkhe-512-g-one/) – Open to AI CV roles/internships  
-- **X/Twitter**: [@gourav_salunkhe](https://twitter.com/gourav_salunkhe)  
-- **Instagram**: [@Winiks.co]( https://www.instagram.com/winiks.co)  
-- **YouTube**: [@Researcher_Gourav](https://youtube.com/@Researcher_Gourav) – CV Tutorials coming soon!  
-- **Hugging Face**: [Researcher-Gourav](https://huggingface.co/Researcher-Gourav)  
+**AI & Machine Learning**
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+  <img src="https://img.shields.io/badge/YOLO-00FF00?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+</p>
 
-> "I don’t just code — I experiment, deploy, and solve real problems with AI Vision."  
+**Backend & Deployment**
+<p>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+</p>
 
-**Open to collaborations, freelance CV/AI projects, and full-time Applied AI Engineer roles (especially Computer Vision)!** DM me on LinkedIn. Let's build the future! 🔥
+**Frontend & Others**
+<p>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+</p>
 
-see what we are doing : 
+---
+
+### 🔥 Featured Projects
+
+**ai-image-analysis-api**  
+Production-ready Object Detection API using **YOLOv8 + FastAPI**. Returns JSON with bounding boxes. Deployed on Vercel.  
+**Tech:** YOLOv8, FastAPI, OpenCV, Python  
+🔗 [Repository](https://github.com/Gourav-512/ai-image-analysis-api)
+
+**person-detect-backend**  
+Smart Student Attendance System — Real-time person detection using **YOLOv8 + Flask + Docker**.  
+**Tech:** YOLOv8, FastAPI/Flask, Docker, OpenCV  
+🔗 [Repository](https://github.com/Gourav-512/person-detect-backend)
+
+**SmartSkin-AI**  
+Skin disease classification model with **82% accuracy** using MobileNetV2. Deployed with Streamlit.  
+**Tech:** TensorFlow, MobileNetV2, Streamlit, OpenCV  
+🔗 [Repository](https://github.com/Gourav-512/SmartSkin-AI-Deep-Learning)
+
+**Agro-Vision**  
+Multilingual AI Dashboard for Indian farmers — Crop health monitoring using Computer Vision & NDVI concepts.  
+**Tech:** Computer Vision, AI Analytics, Python  
+🔗 [Repository](https://github.com/Gourav-512/Agro-Vision)
+
+**MindMatrixio**  
+Freemium AI SaaS Toolkit for creators (Text Generation, Resume Builder, Content tools).  
+**Tech:** Python, OpenAI, Hugging Face APIs  
+🔗 [Repository](https://github.com/Gourav-512/MindMatrixio)
+
+---
+
+### 🎯 Current Focus (MLOps + AI Engineering)
+
+- Advancing **MLOps** practices (Docker, CI/CD, experiment tracking)
+- Real-time inference optimization
+- Vision Transformers & Edge AI
+- Scalable AI backend architecture
+
+---
+
+### 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Gourav-512&show_icons=true&theme=github_dark&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gourav-512&layout=compact&theme=github_dark&hide_border=true" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Gourav-512&theme=dark&hide_border=true"/>
+</p>
+
+---
+
+### 🏆 Certifications & Achievements
+
+- Google Generative AI
+- Accenture AI/ML Workflow
+- Edureka AI/ML Internship
+- **ISRO Hackathon 2025** — Selected
+- Tata Cybersecurity Simulation
+- Goldman Sachs Engineering Simulation
+
+---
+
+### 📫 Connect With Me
+
+- **LinkedIn**: [Gourav Salunkhe](https://www.linkedin.com/in/gourav-salunkhe-512-g-one/)
+- **GitHub**: [@Gourav-512](https://github.com/Gourav-512)
+- **Hugging Face**: [Researcher-Gourav](https://huggingface.co/Researcher-Gourav)
+
+---
+
+<p align="center">
+  <i>Turning AI research into real-world production systems.</i>
+</p>
