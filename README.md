@@ -27,6 +27,7 @@
 
 ---
 
+
 ## 👨‍💻 About Me
 
 I'm an **Applied AI Engineer** specializing in **Computer Vision** and **production-grade AI systems**. My passion lies in transforming machine learning models into scalable, deployable applications that solve real-world problems.
