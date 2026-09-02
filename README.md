@@ -4,7 +4,6 @@
   <strong>Applied AI Engineer</strong> • <strong>Computer Vision</strong> • <strong>Production AI Systems</strong>
 </p>
 
-
 <p align="center">
   Building end-to-end AI applications with focus on <strong>Computer Vision</strong>, real-time inference,<br/>
   scalable backends, and production deployment. Passionate about turning ML research into real-world solutions.
