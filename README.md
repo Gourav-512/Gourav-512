@@ -79,4 +79,4 @@ If you're building something ambitious in **AI, deep-tech, software infrastructu
 
 ### One system at a time.
 
-[Portfolio](https://gourav.youware.app/) · [LinkedIn](https://www.linkedin.com/in/gourav-salunkhe/) · [Hugging Face](https://huggingface.co/Researcher-Gourav) · [Substack](https://gouravsalunkhe.substack.com/)
+[Portfolio](https://gourav.youware.app/) · [LinkedIn](https://www.linkedin.com/in/gourav-salunkhe/) · [Hugging Face](https://huggingface.co/Researcher-Gourav) · [Substack](https://gouravsalunkhe.substack.com/) · [Youtube](https://www.youtube.com/@Think.Gourav)
