@@ -1,82 +1,73 @@
+<div align="center">
+  
 # Gourav Salunkhe
 
-### Independent Builder · AI Engineer · Entrepreneur
+**Independent Builder · Applied AI Engineer · Entrepreneur**
 
-I’m building **WINIKS** — a technology ecosystem where I experiment with **AI, software products, business systems and startups.**
+Building **WINIKS** — an ecosystem of AI tools, business systems & real products.
 
-I’m currently balancing **building, learning, researching and creating** — with the goal of turning ideas into real systems and businesses.
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://gourav.youware.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gourav-salunkhe/)
+[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/Researcher-Gourav)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Think.Gourav)
 
----
-
-## What I'm Building
-
-**WINIKS** is the umbrella for the things I'm building across software, AI and digital systems.
-
-### 🚀 Products & Systems
-
-**Web & Business Systems**
-Websites · Web Applications · ERP Systems · Business Automation · Response Systems
-
-**Booking & Operations**
-Booking Platforms · Queue Systems · Service Management · Multi-tenant SaaS
-
-**AI & Intelligent Systems**
-AI Tools · Computer Vision · AI Automation · Personal AI · Applied AI
+</div>
 
 ---
 
-## Current Builds
+### Currently Building
 
-| Project                 | What I'm building                                                              |
-| ----------------------- | ------------------------------------------------------------------------------ |
-| 🩺 **Careoon**          | HealthTech startup focused on making local healthcare services more accessible |
-| ⚡ **OkCome**            | Booking, queue & service-management infrastructure for businesses              |
-| 🧠 **MindMatrix**       | AI tools and experimentation platform                                          |
-| 🏢 **ERP Systems**      | Business operations, management & automation systems                           |
-| 👁️ **AI / CV Systems** | Computer Vision and real-world AI applications                                 |
-| 🌐 **Client Systems**   | Websites, web applications and digital systems for real businesses             |
-
----
-
-## The Bigger Picture
-
-I'm not working on these as isolated projects.
-
-I'm building an ecosystem.
-
-**Startup building** → WINIKS, Careoon, SaaS products
-**Engineering** → Backend, AI, web systems, infrastructure
-**Research** → AI, Computer Vision, intelligent systems
-**Learning** → MCA + continuous technical exploration
-**Content** → documenting ideas, experiments and the journey
-**Personal AI** → building my own AI system and tools
-
-Everything feeds into everything else.
-
-**Learn → Build → Research → Ship → Learn again.**
+| Project | Focus |
+|---------|-------|
+| 🩺 **Careoon** | HealthTech — making local healthcare more accessible |
+| ⚡ **OkCome** | Booking, queue & service management for businesses |
+| 🧠 **MindMatrix** | AI tools & multi-agent experimentation |
+| 🏢 **WINIKS ERP** | Business operations & automation systems |
+| 👁️ **AI / CV Systems** | Computer Vision & real-world AI applications |
 
 ---
 
-## Technology
+### Tech Stack
 
-**AI / ML:** Python · PyTorch · TensorFlow · OpenCV · Computer Vision · Generative AI
+**AI / ML**  
+`Python` `PyTorch` `OpenCV` `Computer Vision` `Generative AI` `LLMs`
 
-**Engineering:** FastAPI · Next.js · React · TypeScript · PostgreSQL · Supabase · Firebase
+**Engineering**  
+`Next.js` `TypeScript` `FastAPI` `React` `PostgreSQL` `Supabase` `Docker`
 
-**Infrastructure:** Docker · GitHub Actions · Vercel · Cloud Services · APIs
-
----
-
-## Open to Interesting Problems
-
-I'm building my own products and businesses, but I'm also open to the **right opportunity**.
-
-If you're building something ambitious in **AI, deep-tech, software infrastructure, startups or applied research**, I'm interested in conversations that involve real problems and meaningful work.
+**Infrastructure**  
+`Vercel` `GitHub Actions` `Cloud` `APIs`
 
 ---
 
-### Building my own path.
+### Selected Work
 
-### One system at a time.
+- **[practical-ai-tools](https://github.com/Gourav-512/practical-ai-tools)** → Ready-to-use AI prompts, text cleaner & invoice helper  
+- **[person-detect-backend](https://github.com/Gourav-512/person-detect-backend)** → YOLOv8 person detection API for attendance systems  
+- **[MindMatrixio](https://github.com/Gourav-512/MindMatrixio)** → Multi-AI tools platform  
 
-[Portfolio](https://gourav.youware.app/) · [LinkedIn](https://www.linkedin.com/in/gourav-salunkhe/) · [Hugging Face](https://huggingface.co/Researcher-Gourav) · [Substack](https://gouravsalunkhe.substack.com/) · [Youtube](https://www.youtube.com/@Think.Gourav)
+---
+
+### Philosophy
+
+> Learn → Build → Research → Ship → Learn again.
+
+I build products, systems and experiments under **WINIKS**.  
+Not just code — real systems that solve real problems.
+
+---
+
+### Open to
+
+Interesting problems in **AI, deep-tech, software infrastructure or startups**.  
+If you're building something ambitious, feel free to connect.
+
+---
+
+<div align="center">
+
+**Building my own path. One system at a time.**
+
+[Portfolio](https://gourav.youware.app/) · [LinkedIn](https://www.linkedin.com/in/gourav-salunkhe/) · [Substack](https://gouravsalunkhe.substack.com/)
+
+</div>
